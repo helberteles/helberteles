@@ -42,8 +42,8 @@ Com experiência em diversos cargos de liderança e um conjunto abrangente de ha
 
 **Certificações:**
 
-* **AWS Certified Data Enginner - Associate - Emitido em 17 Mai 2024
-* **AWS Certified Solutions Architect - Associate - Emitido em 13 Mar 2024
-* **AWS Certified Cloud Practitioner - Emitido em 13 Sep 2023
-* **Microsoft Certified Azure Fundamentals - Emitido em 05 Aug 2023
-* **ACA Cloud Computing Certification - Emitido em 24 Dez 2022
+* **AWS Certified Data Enginner** - Associate - Emitido em 17 Mai 2024
+* **AWS Certified Solutions Architect** - Associate - Emitido em 13 Mar 2024
+* **AWS Certified Cloud Practitioner** - Emitido em 13 Sep 2023
+* **Microsoft Certified Azure Fundamentals** - Emitido em 05 Aug 2023
+* **ACA Cloud Computing Certification** - Emitido em 24 Dez 2022
