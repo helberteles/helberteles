@@ -1,5 +1,9 @@
 ## Resumo
 
+**Sobre:**
+
+Com experiência em diversos cargos de liderança e um conjunto abrangente de habilidades técnicas, destaco-me como um profissional qualificado, com foco em engenharia de dados, arquitetura de dados e business intelligence. Minha capacidade de liderar equipes, gerenciar projetos e entregar resultados demonstra minha habilidade de contribuir significativamente para qualquer organização.
+
 **Especialidades:**
 
 * **Engenharia de Dados:**
@@ -36,6 +40,10 @@
 * **Projeto NetPME:** Iniciativa focada na comercialização de planos de internet para pequenas e médias empresas, utilizando análise de dados para avaliar desempenho, identificar tendências e desenvolver estratégias para melhorar a eficiência operacional.
 * **Projeto FSVas:** Serviço de vendas por telefone para comercialização de seguros, utilizando segmentação por região e DDD, com prospecção de clientes com base em agendas, dias de maior movimento e segmentação por cluster.
 
-**Conclusão:**
+**Certificações:**
 
-Com experiência em diversos cargos de liderança e um conjunto abrangente de habilidades técnicas, destaco-me como um profissional qualificado, com foco em engenharia de dados, arquitetura de dados e business intelligence. Minha capacidade de liderar equipes, gerenciar projetos e entregar resultados demonstra minha habilidade de contribuir significativamente para qualquer organização.
+* **AWS Certified Data Enginner - Associate - Emitido em 17 Mai 2024
+* **AWS Certified Solutions Architect - Associate - Emitido em 13 Mar 2024
+* **AWS Certified Cloud Practitioner - Emitido em 13 Sep 2023
+* **Microsoft Certified Azure Fundamentals - Emitido em 05 Aug 2023
+* **ACA Cloud Computing Certification - Emitido em 24 Dez 2022
