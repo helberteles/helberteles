@@ -1,7 +1,5 @@
 ## Resumo
 
-**Sobre:**
-
 Com experiência em diversos cargos de liderança e um conjunto abrangente de habilidades técnicas, destaco-me como um profissional qualificado, com foco em engenharia de dados, arquitetura de dados e business intelligence. Minha capacidade de liderar equipes, gerenciar projetos e entregar resultados demonstra minha habilidade de contribuir significativamente para qualquer organização.
 
 **Especialidades:**
