@@ -45,3 +45,19 @@ With experience in various leadership roles and a comprehensive set of technical
 * **AWS Certified Cloud Practitioner** - Issued on Sep 13, 2023
 * **Microsoft Certified Azure Fundamentals** - Issued on Aug 05, 2023
 * **ACA Cloud Computing Certification** - Issued on Dec 24, 2022
+
+
+[![AWS Certified Data Engineer - Associate](https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20Associate-blue)](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
+- Issued on May 17, 2024
+
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-blue)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- Issued on Mar 13, 2024
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-blue)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- Issued on Sep 13, 2023
+
+[![Microsoft Certified Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- Issued on Aug 05, 2023
+
+[![ACA Cloud Computing Certification](https://img.shields.io/badge/ACA-Cloud%20Computing%20Certification-blue)](https://www.aca-cert.com/)
+- Issued on Dec 24, 2022
