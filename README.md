@@ -22,4 +22,5 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Cloudera](https://img.shields.io/badge/-Cloudera-EE802F?style=flat-square&logo=cloudera&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white)
