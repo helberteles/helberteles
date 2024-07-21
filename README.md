@@ -16,3 +16,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+## Architectures
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloudera](https://img.shields.io/badge/-Cloudera-EE802F?style=flat-square&logo=cloudera&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white)
