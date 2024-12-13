@@ -3,6 +3,9 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
 [![Português](https://img.shields.io/badge/lang-Português-green.svg)](README.pt.md)
 
+![Credenciais digitais](https://github.com/user-attachments/assets/6fca0640-c725-419e-a196-de02c9777077)
+
+
 ## Choose your language
 - [English](README.en.md)
 - [Português](README.pt.md)
